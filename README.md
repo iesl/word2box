@@ -1,10 +1,15 @@
-# Language Modeling with Boxes
+# Word2Box: Capturing Set-Theoretic Semantics of Words using Box Embeddings
 > Using boxes for word representations
 
 ## Dev Instructions
 ```
+conda create -n word2box python=3.8
+conda activate word2box
+conda install pytorch==1.7.1 -c pytorch
+```
+```
 git clone {repo-url} --recurse-submodules
-cd language-modeling-with-boxes
+cd word2box
 pip install -e lib/*
 pip install -e .
 ```
