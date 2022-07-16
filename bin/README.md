@@ -1,0 +1,2 @@
+## Language Modeling with Boxes Bin
+This directory contains all executable files. Ideally, we should not have any long scripts here, they should just be shims to the actual code which is in the `src` directory. With the default setup, you should not need to add any additional files to this directory, simply make them subcommands of the primary package.

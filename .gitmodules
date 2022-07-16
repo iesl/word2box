@@ -1,0 +1,3 @@
+[submodule "lib/pytorch-utils"]
+	path = lib/pytorch-utils
+	url = https://gitlab.com/boratko/pytorch-utils
